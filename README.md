@@ -1,0 +1,2 @@
+# apk-build-mhwl_apk_alahtrafy_thwyl_msharya_alwyb_ila_andrwyd-mwiy4utc
+Temporary Capacitor Android APK Build Repository
