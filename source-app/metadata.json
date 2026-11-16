@@ -1,0 +1,6 @@
+{
+  "name": "مُحوّل APK الاحترافي",
+  "description": "تحويل مشاريع الويب المضغوطة (ZIP) من Google AI Studio إلى تطبيقات أندرويد (APK) جاهزة للتثبيت عبر Capacitor و GitHub Actions مع دعم صلاحيات المعرض والمشاركة والميكروفون وملء الشاشة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

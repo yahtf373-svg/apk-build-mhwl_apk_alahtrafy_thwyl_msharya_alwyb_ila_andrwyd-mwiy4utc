@@ -1,0 +1,14 @@
+{
+  "appId": "com.apkpro.mhwl_apk_alahtrafy_thwyl_msharya_alwyb_ila_andrwyd",
+  "appName": "مُحوّل APK الاحترافي — تحويل مشاريع الويب إلى أندرويد",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
